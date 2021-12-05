@@ -31,7 +31,6 @@ efficiency
 
 ---
 
-Last Edited on: 24/09/2021
 
 <!-- Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual) -->
 
