@@ -1,6 +1,5 @@
 <div align="center">
 <a href="https://8byte.co.vu/" target="_blank">
-<img src="./assets/Header.svg" alt="Kafaween" />
 </a>
 </div>
 
