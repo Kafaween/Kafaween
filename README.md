@@ -53,7 +53,6 @@
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"  alt=""/></td>
-<td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"  alt=""/></td>
 <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"  alt=""/></td>
 <td></td>
 <td></td>
