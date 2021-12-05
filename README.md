@@ -27,7 +27,6 @@
 <tr>
 <th colspan="3">Web</th>
 <th rowspan="2">Phone</th>
-<th rowspan="2">Desktop</th>
 <th rowspan="2">Tools</th>
 </tr>
 <tr>
@@ -36,11 +35,9 @@
 <th>Database</th>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"  alt="Next JS"/></td>
 <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"  alt=""/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"  alt=""/></td>
 <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"  alt=""/></td>
 <td><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"  alt=""/></td>
-<td><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"  alt=""/></td>
 <td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"  alt=""/></td>
 </tr>
 <tr>
